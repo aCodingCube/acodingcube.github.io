@@ -61,6 +61,6 @@ function Login() {
 }
 
 function SignUp() {
+    console.log("Redirect");
     window.location.replace("./main.html");
-
 }
